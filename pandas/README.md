@@ -1,1 +1,1 @@
-Pliki do zadań z pandas
+Pliki do zadań z kursu pandas na kaggle.com
